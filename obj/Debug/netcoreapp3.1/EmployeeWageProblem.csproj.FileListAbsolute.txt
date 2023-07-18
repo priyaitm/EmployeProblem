@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\bin\Debug\netcoreapp3.1\EmployeeWageProblem.exe
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\bin\Debug\netcoreapp3.1\EmployeeWageProblem.deps.json
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\bin\Debug\netcoreapp3.1\EmployeeWageProblem.runtimeconfig.json
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\bin\Debug\netcoreapp3.1\EmployeeWageProblem.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\bin\Debug\netcoreapp3.1\EmployeeWageProblem.dll
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\bin\Debug\netcoreapp3.1\EmployeeWageProblem.pdb
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\obj\Debug\netcoreapp3.1\EmployeeWageProblem.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\obj\Debug\netcoreapp3.1\EmployeeWageProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\obj\Debug\netcoreapp3.1\EmployeeWageProblem.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\obj\Debug\netcoreapp3.1\EmployeeWageProblem.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\obj\Debug\netcoreapp3.1\EmployeeWageProblem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\obj\Debug\netcoreapp3.1\EmployeeWageProblem.dll
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\obj\Debug\netcoreapp3.1\EmployeeWageProblem.pdb
+C:\Users\DELL\source\repos\PositiveNum\EmployeeWageProblem\obj\Debug\netcoreapp3.1\EmployeeWageProblem.genruntimeconfig.cache
